@@ -1,15 +1,17 @@
 {
   "posts": [
      {
-            
+            "id":"1",
             "name":"Assasins Creed Syndicate",
             "key":"1",
             "price":"$5",
             "img":"https://image.api.playstation.com/cdn/UP0001/CUSA02389_00/D13Uumix6SG8IluaXuikr3UT5bhfDwen.png"
       },
       {
+            
+            "id":"2",
             "name":"Assasins Creed Syndicate",
-            "key":"1",
+            "key":"2",
             "price":"$5",
             "img":"https://image.api.playstation.com/cdn/UP0001/CUSA02389_00/D13Uumix6SG8IluaXuikr3UT5bhfDwen.png"
         }
