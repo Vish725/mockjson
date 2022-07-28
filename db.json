@@ -31,7 +31,56 @@
             "price":"Free",
             "img":"https://www.gamerroof.com/wp-content/uploads/2019/06/Destiny-2-PC-Version-Full-Game-Free-Download.jpg"
       
-      }
+      },
+      {
+            "id":"5", 
+            "name":"God of War",
+            "key":"5",
+            "price":"$15",
+            "img":"https://m.media-amazon.com/images/I/816O9z8eLqL._SL1500_.jpg"
+      
+      },
+    {
+      
+            "id":"6",
+            "name":"Devil May Cry 5",
+            "key":"6",
+            "price":"$12",
+            "img":"https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/3499317-dmc5-box.jpg"
+      
+    },
+    {
+            "id":"7",
+            "name":"Sekiro Shadows die Twice",
+            "key":"7",
+            "price":"$9.5",
+            "img":"https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg"
+      
+    },
+    {
+            "id":"8",
+            "name":"Dark Souls III",
+            "key":"8",
+            "price":"$7",
+            "img":"https://s3.gaming-cdn.com/images/products/857/orig-fallback-v1/dark-souls-3-pc-game-steam-cover.jpg?v=1644693960" 
+    },
+    {
+          
+            "id":"9",
+            "name":"Elden Ring",
+            "key":"9",
+            "price":"$16",
+            "img":"https://pbncanvas.com/wp-content/uploads/2022/02/Elden-ring-Poster-paint-by-numbers.jpg" 
+      
+    },
+    {
+            "id":"10",
+            "name":"Flight Simulator",
+            "key":"10",
+            "price":"$11",
+            "img":"https://store-images.s-microsoft.com/image/apps.65126.13616710694760137.286559f2-791d-44cd-8d3f-6847f5e54bf2.c869d6aa-468a-4a33-a3e7-c3354beab0d0?w=180&h=300&q=90&mode=scale"
+      
+    }
    
   ]
 }
