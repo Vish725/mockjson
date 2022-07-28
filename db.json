@@ -33,18 +33,18 @@
         },
         {
             "name":"Devil May Cry 5",
-            "key":'6',
-            "price":'$12',
-            "img":'https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/3499317-dmc5-box.jpg'
+            "key":"6",
+            "price":"$12",
+            "img":"https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/3499317-dmc5-box.jpg"
         },{
-            "name":'Sekiro Shadows die Twice',
-            "key":'7',
-            "price":'$9.5',
-            "img":'https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg'
+            "name":"Sekiro Shadows die Twice",
+            "key":"7",
+            "price":"$9.5",
+            "img":"https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg"
         }
         ,{
             "name":"Dark Souls III",
-            "key":'8',
+            "key":"8",
             "price":"$7",
             "img":"https://s3.gaming-cdn.com/images/products/857/orig-fallback-v1/dark-souls-3-pc-game-steam-cover.jpg?v=1644693960"
         },
@@ -57,44 +57,44 @@
         {
            "name":"Flight Simulator",
             "key":"10",
-            price:'$11',
-            img:'https://store-images.s-microsoft.com/image/apps.65126.13616710694760137.286559f2-791d-44cd-8d3f-6847f5e54bf2.c869d6aa-468a-4a33-a3e7-c3354beab0d0?w=180&h=300&q=90&mode=scale'
+            "price":"$11",
+            "img":'https://store-images.s-microsoft.com/image/apps.65126.13616710694760137.286559f2-791d-44cd-8d3f-6847f5e54bf2.c869d6aa-468a-4a33-a3e7-c3354beab0d0?w=180&h=300&q=90&mode=scale'
         },
         {
-            name:'Nier Automata',
-            key:'11',
-            price:'$10',
-            img:'https://upload.wikimedia.org/wikipedia/en/2/21/Nier_Automata_cover_art.jpg'
+            "name":"Nier Automata",
+            "key":"11",
+            "price":"$10",
+            "img":"https://upload.wikimedia.org/wikipedia/en/2/21/Nier_Automata_cover_art.jpg"
         },
         {
-            name:'Cyber Punk 2077',
-            key:'12',
-            price:'$18',
-            img:'https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg'
+            "name":"Cyber Punk 2077",
+            "key":"12",
+            "price":"$18",
+            "img":"https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg"
         },
         {
-            name:'Uncharted 4',
-            key:'13',
-            price:'$13',
-            img:'https://www.newgamesbox.net/wp-content/uploads/2019/04/Uncharted-4-A-Thiefs-End-Free-Download.jpg'
+            'name":"Uncharted 4",
+            "key":"13",
+            "price":"$13",
+            "img":"https://www.newgamesbox.net/wp-content/uploads/2019/04/Uncharted-4-A-Thiefs-End-Free-Download.jpg"
         },
         {
-            name:'Max Payne 3',
-            key:'14',
-            price:'$8',
-            img:'http://cdn.shopify.com/s/files/1/0875/3268/products/max-payne-3-playstation-3.jpg?v=1649436690'
+            'name":"Max Payne 3",
+            "key":"14",
+            "price":"$8",
+            "img":"http://cdn.shopify.com/s/files/1/0875/3268/products/max-payne-3-playstation-3.jpg?v=1649436690"
         },
         {
-            name:'F1:2020',
-            key:'15',
-            price:'$15',
-            img:'https://assets-eu-01.kc-usercontent.com/f893b662-5b05-01a8-4600-9df72e7deba9/4c3e21af-daaf-41f3-84bf-7fb2be07f4e1/F12020_PC_70Ed_PACK_2D_POL.jpg'
+            "name":"F1:2020",
+            "key":"15",
+            "price":"$15",
+            "img":"https://assets-eu-01.kc-usercontent.com/f893b662-5b05-01a8-4600-9df72e7deba9/4c3e21af-daaf-41f3-84bf-7fb2be07f4e1/F12020_PC_70Ed_PACK_2D_POL.jpg"
         },
         {
-            name:'NFS:Payback',
-            key:'16',
-            price:'$17',
-            img:'https://upload.wikimedia.org/wikipedia/en/6/64/Need_for_Speed_Payback_standard_edition_cover_art.jpg'
+            "name":"NFS:Payback",
+            "key":"16",
+            "price":"$17",
+            "img":"https://upload.wikimedia.org/wikipedia/en/6/64/Need_for_Speed_Payback_standard_edition_cover_art.jpg"
         }
         
        
