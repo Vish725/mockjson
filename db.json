@@ -80,7 +80,55 @@
             "price":"$11",
             "img":"https://store-images.s-microsoft.com/image/apps.65126.13616710694760137.286559f2-791d-44cd-8d3f-6847f5e54bf2.c869d6aa-468a-4a33-a3e7-c3354beab0d0?w=180&h=300&q=90&mode=scale"
       
-    }
+    },
+    {
+            "id":"11",
+            "name":"Nier Automata",
+            "key":"11",
+            "price":"$10",
+            "img":"https://upload.wikimedia.org/wikipedia/en/2/21/Nier_Automata_cover_art.jpg"
+      
+    },
+    {
+            "id":"12",
+            "name":"Cyber Punk 2077",
+            "key":"12",
+            "price":"$18",
+            "img":"https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg"
+      
+    },
+    {
+            "id":"13",
+            "name":"Uncharted 4",
+            "key":"13",
+            "price":"$13",
+            "img":"https://www.newgamesbox.net/wp-content/uploads/2019/04/Uncharted-4-A-Thiefs-End-Free-Download.jpg"
+    },
+    {
+            "id":"14",
+            "name":"Max Payne 3",
+            "key":"14",
+            "price":"$8",
+            "img":"http://cdn.shopify.com/s/files/1/0875/3268/products/max-payne-3-playstation-3.jpg?v=1649436690"
+      
+    },
+    {
+            "id":"15",
+            "name":"F1:2020",
+            "key":"15",
+            "price":"$15",
+            "img":"https://assets-eu-01.kc-usercontent.com/f893b662-5b05-01a8-4600-9df72e7deba9/4c3e21af-daaf-41f3-84bf-7fb2be07f4e1/F12020_PC_70Ed_PACK_2D_POL.jpg"
+    },
+    {
+            
+            "id":"16",
+            "name":"NFS:Payback",
+            "key":"16",
+            "price":"$17",
+            "img":"https://upload.wikimedia.org/wikipedia/en/6/64/Need_for_Speed_Payback_standard_edition_cover_art.jpg"
+      
+    } 
+      
    
   ]
 }
