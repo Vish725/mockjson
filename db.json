@@ -7,14 +7,6 @@
             "price":"$5",
             "img":"https://image.api.playstation.com/cdn/UP0001/CUSA02389_00/D13Uumix6SG8IluaXuikr3UT5bhfDwen.png"
       },
-      {
-            
-            "id":"2",
-            "name":"Star wars Jedi Fallen Order",
-            "key":"2",
-            "price":"$12",
-            "img":"https://upload.wikimedia.org/wikipedia/en/1/13/Cover_art_of_Star_Wars_Jedi_Fallen_Order.jpg"
-        }, 
-      ]
+  ]
  
 }
